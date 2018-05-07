@@ -1,7 +1,7 @@
 {
-  "name": "email-finder",
+  "name": "eFinder",
   "version": "1.0.0",
-  "description": "Easily find any email address for free!",
+  "description": "Easily find any E-Mail Address for Free!",
   "main": "index.js",
   "scripts": {
     "start": "DEBUG=index node index.js",
@@ -10,7 +10,7 @@
   "engines": {
     "node": "4.2.4"
   },
-  "author": "",
+  "author": "Richard Partridge",
   "license": "ISC",
   "dependencies": {
     "async": "^1.5.2",
