@@ -1,7 +1,7 @@
 {
-  "name": "Email Finder",
+  "name": "eFinder - An Online Initiative by DigiCurry.com",
   "description": "Easily find any email address for free!",
-  "repository": "https://github.com/mfrye/email-finder",
+  "repository": "https://github.com/iamrichardpartridge/eFinder.Leadify.Link/",
   "logo": "https://www.thebigpicture.io/android-icon-192x192.png",
   "keywords": ["node", "express", "email"]
 }
